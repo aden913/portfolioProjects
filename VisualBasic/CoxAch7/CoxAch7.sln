@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CoxAch7", "CoxAch7\", "{2A3F7D7E-0CA2-462E-A8F6-F4DD0F1A25CA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65029"
+		Debug.AspNetCompiler.PhysicalPath = "CoxAch7\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65029\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65029"
+		Release.AspNetCompiler.PhysicalPath = "CoxAch7\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65029\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65029"
+		SlnRelativePath = "CoxAch7\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3F7D7E-0CA2-462E-A8F6-F4DD0F1A25CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3F7D7E-0CA2-462E-A8F6-F4DD0F1A25CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {674CBE64-9FC8-4935-BF2D-E6475D166405}
+	EndGlobalSection
+EndGlobal
